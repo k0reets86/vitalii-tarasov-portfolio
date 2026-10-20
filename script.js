@@ -48,10 +48,10 @@ const LANGS = [
 
 const DOCS = [
   {t:"Lebenslauf (CV)", d:"Vollständiger Lebenslauf auf Deutsch, aktueller Stand.", status:"ready", href:"assets/Lebenslauf_Vitalii_Tarasov.pdf", ic:"doc"},
-  {t:"Diplom – Bachelor Film- &amp; Fernsehkunst", d:"Nationale Universität für Kultur und Künste Kyjiw, 2008 (mit Auszeichnung). Original-Diplom aus der Ukraine.", status:"soon", ic:"lock"},
-  {t:"Diplom – Sprecher &amp; Moderator", d:"Spezialist-Diplom, 2009 (mit Auszeichnung).", status:"soon", ic:"lock"},
-  {t:"ZAB-Zeugnisbewertung", d:"Anerkennung des ukrainischen Hochschulabschlusses in Deutschland (04/2026).", status:"soon", ic:"lock"},
-  {t:"Deutsch-Zertifikat B2 (telc)", d:"Sprachzertifikat, ausgestellt 08/2026.", status:"soon", ic:"lock"},
+  {t:"ZAB-Zeugnisbewertung – Bachelor", d:"Bachelor Film- &amp; Fernsehkunst, Nationale Universität für Kultur und Künste Kyjiw (2008, mit Auszeichnung). Bewertung der ZAB (KMK, Bonn) vom 14.04.2026: entspricht einem deutschen Hochschulabschluss auf Bachelor-Ebene.", status:"ready", href:"assets/ZAB_Zeugnisbewertung_Bachelor_2008.pdf", ic:"doc"},
+  {t:"ZAB-Zeugnisbewertung – Sprecher &amp; Moderator", d:"Spezialist „Sprecher und Moderator von Fernsehsendungen“ (2009, mit Auszeichnung). ZAB-Bewertung vom 14.04.2026: Niveau zwischen Bachelor- und Masterebene.", status:"ready", href:"assets/ZAB_Zeugnisbewertung_Sprecher_Moderator_2009.pdf", ic:"doc"},
+  {t:"Deutsch-Zertifikat B2 (telc)", d:"telc Deutsch-Test für den Beruf B2, Ergebnis „gut erfüllt“ (189 von 240 Punkten), ausgestellt am 05.08.2026.", status:"ready", href:"assets/telc_Deutsch_B2_Zertifikat.pdf", ic:"doc"},
+  {t:"Original-Diplome (Ukraine)", d:"Bachelor-Diplom (2008) und Spezialist-Diplom (2009) im Original – werden ergänzt.", status:"soon", ic:"lock"},
   {t:"Urkunden &amp; Ehrenamt", d:"Nachweise zu ehrenamtlicher Presse- und Öffentlichkeitsarbeit (CenterUA e.V., „Krayna“ e.V.).", status:"soon", ic:"lock"},
 ];
 
