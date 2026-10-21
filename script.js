@@ -37,7 +37,7 @@ const TIMELINE = [
   {date:"08/2010 – 12/2011", title:"Redakteur und Moderator „Thema des Tages“", org:"TV-Sender „Kyivska Rus“, Kyjiw", points:[]},
   {date:"08/2009 – 08/2010", title:"Redakteur vom Dienst (Nachrichten)", org:"TV-Sender „UBC“ (Ukrainian Business Channel), Kyjiw",
    points:["Redaktionelle Bearbeitung der Beiträge der Journalisten","Zusammenstellung und Layout der Nachrichtenausgabe (Sendeablauf)","Verantwortung für die Ausspielung der Ausgabe in den Live-Sendebetrieb"]},
-  {date:"06/2007 – 07/2009", title:"Journalist", org:"TV-Sender „Tonis“, Kyjiw", points:[]},
+  {date:"06/2007 – 07/2009", title:"Journalist", org:"TV-Sender „Tonis“, Kyjiw (parallel zum Studium)", points:[]},
   {date:"02/2005 – 12/2006", title:"Journalist und Korrespondent", org:"TV-Sender „5 Kanal“, Kyjiw (parallel zum Studium)", points:[]},
   {date:"Parallel", title:"Freiberuflich: Sprecher und Moderator", org:"Voice-over, Synchronisation, Events",
    points:["Voice-over und Synchronisation: 3 Spielfilme, zahlreiche Dokumentarfilme, 7–8 TV-Werbespots","Moderation von Veranstaltungen bis zu Stadionkonzerten mit mehreren Tausend Gästen"]},
